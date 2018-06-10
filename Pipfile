@@ -1,0 +1,18 @@
+[[source]]
+
+verify_ssl = true
+name = "pypi"
+url = "https://pypi.org/simple"
+
+
+[requires]
+
+python_version = "3.6"
+
+
+[dev-packages]
+
+Sphinx = "==1.7.4"
+
+
+[packages]
