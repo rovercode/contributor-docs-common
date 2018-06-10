@@ -18,7 +18,7 @@ deploy:
   region: us-east-2
   on:
     repo: rovercode/contributor-docs-common
-    branch: add-basic-structure
+    branch: master
 notifications:
   slack:
     secure: UFJU+UvLQD/BdIUnR+ntmVDwtDn5iN3eNhnKlDky+13AEmceXd7R47XujYOmVZ9yNns8LJiR1585SKwi0OrIKjAe2Ja6wTn8kDzrCHcaLiA6w89ogqbeIYACz+EmDP2c1N9YSIkylZRMVz44aZrit2K8bpj/lMaYCWaiWElVoSm7szmbEIMoBZpfPpVkvngadsIHx6oFJlN4BZQTa/CwG/xfC3CFHtViSGbW9B+515ihQvE/w8k6COpSFd6wxVvUcBWKuIdwmokmYfF0eLd6TMOua+ogcyu6EP2qtHl4K2EWRth43QFW2TXjtz682m0uir9uIiqKfFZMCVvEBueRMYDHj4LFcA5z/btBcE9PqN/E7Ar6j8ZEV3qa+jqQe/42+ey97zl6dCLL9ksxFqno3MRTzIWH34QEyPqHN3HxtkLpfEy267OtNfMUFm0I85GGBn9G2xpF32bsqkYksxx9Fxq1ytjaukxVdseN/oVR0G0nnXrCr0/qL2Ixxp7OhGICCNc+eNwPH29P84sMfPdZ3NiZ8+Gyp8KCFHPdKgUPAz1nGp1Gz1JX6J6QeygHOFQ1raOsPdcd4LI4QjjiLTlGoAox6iM+s+JjEc7sWOhfVlFMXjp4162O4xKZ6Tes5BbV6THdNnoQvBZ4LVJaz1gJW1ONqZT2r+sGmamAjlR/U9o=
