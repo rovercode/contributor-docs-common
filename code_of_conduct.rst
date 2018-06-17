@@ -27,6 +27,7 @@ Examples of unacceptable behavior by participants include:
 
 - The use of sexualized language or imagery and unwelcome sexual attention or advances
 - Trolling, insulting/derogatory comments, and personal or political attacks
+- The use of adverbs that trivialize or dismiss the difficulty of others' contributions or questions (e.g. "the solution is *obviously*...", "All you need to do is *simply*...") 
 - Public or private harassment
 - Publishing others' private information, such as a physical or electronic
   address, without explicit permission
@@ -59,7 +60,7 @@ Enforcement
 ############
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at brady@rovercode.com. All
+reported by contacting the project team at leadership@rovercode.com. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.

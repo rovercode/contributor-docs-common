@@ -7,7 +7,7 @@ First Steps
 
 - Join our chat_ and say hello in any of the rooms!
 
-- Find a feature ticket that you'd be exited to work on. There are two pieces of rovercode, and therefore two collections of tickets: `rovercode-web tickets`_ (the web app) and `rovercode tickets`_ (the code that runs on the rover hardware).
+- Find a feature ticket that you'd be excited to work on. There are two pieces of rovercode, and therefore two collections of tickets: `rovercode-web tickets`_ (the web app) and `rovercode tickets`_ (the code that runs on the rover hardware).
 
 - Get set up by following the READMEs: `rovercode-web README <https://github.com/rovercode/rovercode-web/blob/master/README.md>`_ or `rovercode README <https://github.com/rovercode/rovercode/blob/master/README.md>`_. We work hard to make setup work right, but remember to reach out in the chat_ room if you have any issues!
 

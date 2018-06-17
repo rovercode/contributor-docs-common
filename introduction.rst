@@ -1,8 +1,9 @@
 Introduction
 ================
 
-rovercode is an open-source educational robotics platform. It consists of a hardware platform (the rover's chassis and custom PCB) 
-and software platform (services that run on the rover and in the cloud). Did we mention that everything is open-source?
+rovercode is an open-source educational robotics platform. It consists of a hardware platform (the rover's chassis and 
+`custom PCB <https://upverter.com/rovercode/>`_) and a software platform (services that run on the rover and in the cloud).
+Did we mention that everything is open-source?
 
 Students use our drag-and-drop code editor to create code that listens to the rover's sensors and controls its motors.
 
