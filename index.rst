@@ -23,7 +23,7 @@ student using rovercode, you're probably looking for `rovercode.com <https://rov
 
 What is rovercode?
 ====================
-rovercode is an open-source educational robotics platform. Students can create code that listens to the rover's 
+rovercode is an open-source educational robotics platform. Students create code that listens to the rover's 
 sensors and controls its motors, then watch the rover set out to execute that code. It combines exciting robotics with 
 low-barrier block-based programming, all on open-source software and hardware.
 
@@ -41,6 +41,7 @@ Keep reading to learn more about rovercode and how to get started contributing t
    introduction
    getting_started
    architecture
+   building-a-rover
    code_of_conduct
 
 .. _chat: https://gitter.im/rovercode/Lobby
